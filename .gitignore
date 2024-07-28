@@ -1,0 +1,13 @@
+.DS_Store
+.vscode/
+__pycharm__
+.ipynb_checkpoints/
+.idea/
+*.dSYM
+*.log
+*.env
+*.bat
+*.parquet
+*.csv
+*.pickle
+*.pkl
